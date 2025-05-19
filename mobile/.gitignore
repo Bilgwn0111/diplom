@@ -34,3 +34,7 @@ yarn-error.*
 
 # typescript
 *.tsbuildinfo
+app/
+front/
+my-app/
+mobile-app/
